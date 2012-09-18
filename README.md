@@ -2,7 +2,7 @@ thebigpicture
 =============
 
 Spotify App that only shows the album cover filling up the entire body of the app window. 
-
+You need a spotify Developer account to get it working.
 
 Hey, detta är gjort av Oscar Dragén. 
 Skriver det här så att texten inte är ivägen för all album art!
@@ -25,7 +25,5 @@ Installation:
 spotify:app:thebigpicture
 
 Voíla.
-
-GLHF (finns inte Spotify-mappen i My Documents, så skapa den bara...)
-
 Restarting spotify might help. 
+
