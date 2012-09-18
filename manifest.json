@@ -1,0 +1,13 @@
+{
+	"BundleType": "Application",
+	"BundleIdentifier": "thebigpicture",
+	"AppIcon": {
+		"36x18": "tutorial.png"
+	},
+	"AppName": {
+		"en": "The BIG Picture"
+	},
+	"SupportedLanguages": [
+		"en"
+	]
+}
